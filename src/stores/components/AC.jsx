@@ -8,7 +8,7 @@ const AC = () => {
   return (
     <>
       <div className="proTitle">
-        <h2>Air Condition</h2>
+        <h2>Air Conditioner</h2>
       </div>
       <div className="proSection">
         {firstFiveImages.map((item) => {
